@@ -1,0 +1,11 @@
+﻿  main.c
+C:\Users\b\Desktop\RSA2048\rsa2048\main.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\b\Desktop\RSA2048\rsa2048\rsa.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\b\Desktop\RSA2048\rsa2048\main.c(46,16): warning C4267: “=”: 从“size_t”转换到“uint8_t”，可能丢失数据
+C:\Users\b\Desktop\RSA2048\rsa2048\main.c(20,9): warning C4101: “ret”: 未引用的局部变量
+  正在生成代码
+  0 of 31 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  rsa2048.vcxproj -> C:\Users\b\Desktop\RSA2048\rsa2048\x64\Release\rsa2048.exe
